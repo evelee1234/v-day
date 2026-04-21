@@ -11,19 +11,19 @@ const gifStages = [
 
 const noMessages = [
     "Nope",
-    "Rely? 🤔",
+    "Really? 🤔",
     "Really notttt... 🥺",
     "Are you really not...",
-    "I don't belive!... 😢",
+    "I don't believe!... 😢",
     "Really??? 💔",
     "Really really...",
     "Last chance! 😭",
-    "Bleh"
+    "????"
 ]
 
 const yesTeasePokes = [
     "try saying no first... I bet you want to know what happens 😏",
-    "go on, hit no... just once 👀",
+    "say no!",
     "you're missing out 😈",
     "click no, I dare you 😏"
 ]
